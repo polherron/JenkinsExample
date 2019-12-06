@@ -13,7 +13,7 @@ class MathematicsTest {
 
 	@Test
 	void testSub() {
-		assertEquals(1,Mathematics.add(3, 2));
+		assertEquals(1,Mathematics.sub(3, 2));
 	}
 
 }
